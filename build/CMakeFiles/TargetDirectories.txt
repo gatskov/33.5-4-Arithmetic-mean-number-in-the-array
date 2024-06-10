@@ -1,0 +1,3 @@
+D:/VSCode/Arithmetic/build/CMakeFiles/ALL_BUILD.dir
+D:/VSCode/Arithmetic/build/CMakeFiles/ZERO_CHECK.dir
+D:/VSCode/Arithmetic/build/src/CMakeFiles/Arithmetic.dir
